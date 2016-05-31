@@ -1,7 +1,7 @@
 # Questions:
 
 1. #####What are the three most essential skills that a beginner programmer 
-needs to know?
+#### needs to know?
   * Reading and writing
   * Attention to detail
   * Spotting the differences
